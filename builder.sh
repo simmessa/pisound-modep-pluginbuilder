@@ -20,12 +20,12 @@
 ./build modduo carla-plugins
 # ./build modduo carla-plugins-labs
 # ./build modduo chow-analogtapemodel
-# ./build modduo chow-centaur
+./build modduo chow-centaur
 # ./build modduo chow-kick
 ./build modduo collisiondrive
 # ./build modduo commercial-plugin-example
 # ./build modduo crypt
-# ./build modduo deteriorate-lv2-labs
+./build modduo deteriorate-lv2-labs
 ./build modduo dexed-labs
 # ./build modduo die-plugins
 # ./build modduo die-plugins-labs
@@ -39,7 +39,7 @@
 # ./build modduo eg-amp-lv2-labs
 # ./build modduo eg-synth-dpf-labs
 # ./build modduo fabla-labs
-# ./build modduo fatfrog
+./build modduo fatfrog
 # ./build modduo fluida-labs
 # ./build modduo fluidplug
 # ./build modduo fluidplug-labs
@@ -70,7 +70,7 @@
 # ./build modduo gxsvt
 # ./build modduo gxswitchlesswah
 # ./build modduo gxtimray
-# ./build modduo gxtonemachine
+./build modduo gxtonemachine
 # ./build modduo gxultracab
 # ./build modduo gxuvox
 # ./build modduo gxvbass
@@ -144,7 +144,7 @@
 # ./build modduo swh-lv2-labs
 # ./build modduo synthv1-labs
 # ./build modduo tal-reverb
-# ./build modduo tamgamp-labs
+./build modduo tamgamp-labs
 # ./build modduo tap-lv2
 # ./build modduo tap-lv2-labs
 # ./build modduo triceratops-labs
@@ -162,7 +162,7 @@
 # ./build modduo x42-tuna-lv2-labs
 # ./build modduo x42-xfade
 # ./build modduo x42-zconvo
-./build modduo ykchorus-labs
+# ./build modduo ykchorus-labs #broken
 # ./build modduo zam-plugins
 # ./build modduo zam-plugins-labs
 # ./build modduo zeroconvo-labs
