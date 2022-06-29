@@ -1,0 +1,10 @@
+from snaipe/ci-meson:gcc-alpine-x86
+run apk add alsa-lib-dev freetype-dev fftw-dev mesa-dev libexecinfo-dev libxrender-dev libxcursor-dev libxshmfence-dev musl-dev git openssh-client
+# run mkdir -p /root/.ssh/ && ssh-keyscan -Ht ecdsa github.com >> /root/.ssh/known_hosts
+run mkdir distroports
+workdir distroports
+run git clone https://github.com/DISTRHO/DISTRHO-Ports.git .
+run ls .
+run meson build --buildtype release
+run ninja -C build
+run ninja -C build install
