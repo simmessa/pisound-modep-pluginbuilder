@@ -1,6 +1,8 @@
 #!/bin/bash
 # copyme
 
+bash startme.sh
+
 docker cp modpluginbuilder:/home/builder/mod-workdir/modduo/plugins/ lv2-plugins
 
 FILES=""
@@ -10,4 +12,7 @@ do
     tar -zcf $dir.tar.gz $dir
     echo done.
 done
+
+docker kill modpluginbuilder
+
 echo All done.
