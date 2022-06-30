@@ -1,11 +1,17 @@
 #!/bin/bash
+
+# https://github.com/antanasbruzas/abGate
 ./build modduo abgate
+
 # ./build modduo aether
 # ./build modduo airwindows
 # ./build modduo alo-labs
 # ./build modduo ams-lv2-labs
 # ./build modduo amsynth
+
+# https://github.com/openAVproductions/openAV-ArtyFX
 ./build modduo artyfx
+
 # ./build modduo artyfx-labs
 # ./build modduo beatslash-lv2-labs
 # ./build modduo blop-lv2
@@ -17,16 +23,30 @@
 # ./build modduo caps-lv2
 # ./build modduo caps-lv2-labs
 # ./build modduo cardinal-bin
+
+# https://github.com/falkTX/Carla
 ./build modduo carla-plugins
+
 # ./build modduo carla-plugins-labs
 # ./build modduo chow-analogtapemodel
+
+# https://github.com/jatinchowdhury18/KlonCentaur
 ./build modduo chow-centaur
+
 # ./build modduo chow-kick
+
+# https://github.com/brummer10/CollisionDrive
 ./build modduo collisiondrive
+
 # ./build modduo commercial-plugin-example
 # ./build modduo crypt
+
+# https://github.com/blablack/deteriorate-lv2/blob/master/README.md
 ./build modduo deteriorate-lv2-labs
+
+# Legendary DX7 soft synth (https://github.com/dcoredump/dexed.lv2)
 ./build modduo dexed-labs
+
 # ./build modduo die-plugins
 # ./build modduo die-plugins-labs
 # ./build modduo distrho-ports
@@ -34,12 +54,18 @@
 # ./build modduo distrho-ports-v6
 # ./build modduo dpf-plugins
 # ./build modduo dpf-plugins-labs
+
+# https://michaelwillis.github.io/dragonfly-reverb/
 ./build modduo dragonfly-reverb
+
 # ./build modduo eg-amp-dpf-labs
 # ./build modduo eg-amp-lv2-labs
 # ./build modduo eg-synth-dpf-labs
 # ./build modduo fabla-labs
+
+# https://github.com/brummer10/FatFrog.lv2
 ./build modduo fatfrog
+
 # ./build modduo fluida-labs
 # ./build modduo fluidplug
 # ./build modduo fluidplug-labs
@@ -70,18 +96,27 @@
 # ./build modduo gxsvt
 # ./build modduo gxswitchlesswah
 # ./build modduo gxtimray
+
+# https://github.com/brummer10/GxToneMachine.lv2
 ./build modduo gxtonemachine
+
 # ./build modduo gxultracab
 # ./build modduo gxuvox
 # ./build modduo gxvbass
 # ./build modduo gxvintagefuzzmaster
 # ./build modduo gxvmk2d
+
+# https://github.com/brummer10/GxVoodoFuzz.lv2
 ./build modduo gxvoodoo
+
 # ./build modduo gxvoxtb
 # ./build modduo gxvstb
 # ./build modduo harmonicexciter
-# ./build modduo infamous-plugins
-# ./build modduo infamous-plugins-labs
+
+# infamous is exciting! (https://ssj71.github.io/infamousPlugins/plugs.html)
+./build modduo infamous-plugins
+./build modduo infamous-plugins-labs
+
 # ./build modduo invada-lv2
 # ./build modduo invada-lv2-labs
 # ./build modduo loopor-labs
@@ -90,12 +125,18 @@
 # ./build modduo lsp-plugins-labs
 # ./build modduo lv2-examples
 # ./build modduo lv2-examples-labs
+
+#https://github.com/brummer10/MetalTone
 ./build modduo metaltone
+
 # ./build modduo midimsg-lv2-labs
 # ./build modduo mod-ams-lv2
 # ./build modduo mod-arpeggiator
 # ./build modduo mod-audio-mixers
+
+# https://github.com/moddevices/mod-cabsim-IR-loader
 ./build modduo mod-cabsim-ir-loader
+
 # ./build modduo mod-cv-plugins
 # ./build modduo mod-distortion
 # ./build modduo mod-mda-lv2
@@ -144,7 +185,10 @@
 # ./build modduo swh-lv2-labs
 # ./build modduo synthv1-labs
 # ./build modduo tal-reverb
+
+# https://github.com/sadko4u/tamgamp.lv2
 ./build modduo tamgamp-labs
+
 # ./build modduo tap-lv2
 # ./build modduo tap-lv2-labs
 # ./build modduo triceratops-labs
