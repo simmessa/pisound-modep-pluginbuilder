@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # https://github.com/antanasbruzas/abGate
-./build modduo abgate
+# ./build modduo abgate
 
 # ./build modduo aether
 # ./build modduo airwindows
@@ -10,7 +10,7 @@
 # ./build modduo amsynth
 
 # https://github.com/openAVproductions/openAV-ArtyFX
-./build modduo artyfx
+# ./build modduo artyfx
 
 # ./build modduo artyfx-labs
 # ./build modduo beatslash-lv2-labs
@@ -25,7 +25,7 @@
 # ./build modduo cardinal-bin
 
 # https://github.com/falkTX/Carla
-./build modduo carla-plugins
+# ./build modduo carla-plugins
 
 # ./build modduo carla-plugins-labs
 # ./build modduo chow-analogtapemodel
@@ -36,7 +36,7 @@
 # ./build modduo chow-kick
 
 # https://github.com/brummer10/CollisionDrive
-./build modduo collisiondrive
+# ./build modduo collisiondrive
 
 # ./build modduo commercial-plugin-example
 # ./build modduo crypt
@@ -45,7 +45,7 @@
 ./build modduo deteriorate-lv2-labs
 
 # Legendary DX7 soft synth (https://github.com/dcoredump/dexed.lv2)
-./build modduo dexed-labs
+# ./build modduo dexed-labs
 
 # ./build modduo die-plugins
 # ./build modduo die-plugins-labs
@@ -56,7 +56,7 @@
 # ./build modduo dpf-plugins-labs
 
 # https://michaelwillis.github.io/dragonfly-reverb/
-./build modduo dragonfly-reverb
+# ./build modduo dragonfly-reverb
 
 # ./build modduo eg-amp-dpf-labs
 # ./build modduo eg-amp-lv2-labs
@@ -107,7 +107,7 @@
 # ./build modduo gxvmk2d
 
 # https://github.com/brummer10/GxVoodoFuzz.lv2
-./build modduo gxvoodoo
+# ./build modduo gxvoodoo
 
 # ./build modduo gxvoxtb
 # ./build modduo gxvstb
@@ -186,8 +186,8 @@
 # ./build modduo synthv1-labs
 # ./build modduo tal-reverb
 
-# https://github.com/sadko4u/tamgamp.lv2
-./build modduo tamgamp-labs
+# BROKEN https://github.com/sadko4u/tamgamp.lv2
+# ./build modduo tamgamp-labs
 
 # ./build modduo tap-lv2
 # ./build modduo tap-lv2-labs
