@@ -22,10 +22,10 @@
 # ./build modduo camomile-examples-labs
 # ./build modduo caps-lv2
 # ./build modduo caps-lv2-labs
-# ./build modduo cardinal-bin
+./build modduo cardinal-bin
 
 # https://github.com/falkTX/Carla
-# ./build modduo carla-plugins
+./build modduo carla-plugins
 
 # ./build modduo carla-plugins-labs
 # ./build modduo chow-analogtapemodel
@@ -55,13 +55,13 @@
 # ./build modduo dpf-plugins
 # ./build modduo dpf-plugins-labs
 
-# https://michaelwillis.github.io/dragonfly-reverb/
+# BROKEN - https://michaelwillis.github.io/dragonfly-reverb/
 # ./build modduo dragonfly-reverb
 
 # ./build modduo eg-amp-dpf-labs
 # ./build modduo eg-amp-lv2-labs
 # ./build modduo eg-synth-dpf-labs
-# ./build modduo fabla-labs
+./build modduo fabla-labs
 
 # https://github.com/brummer10/FatFrog.lv2
 ./build modduo fatfrog

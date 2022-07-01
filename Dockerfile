@@ -17,8 +17,15 @@ run bash buildsingle.sh gxtonemachine
 run bash buildsingle.sh infamous-plugins
 run bash buildsingle.sh infamous-plugins-labs
 run bash buildsingle.sh metaltone
-# cannot find IRs
+# run bash buildsingle.sh cardinal-bin
+run bash buildsingle.sh carla-plugins
+run bash buildsingle.sh fabla-labs
+run bash buildsingle.sh gxvoodoo
+run bash buildsingle.sh dexed-labs
+
+# cannot find IRs, so it's pointless right now
 # run bash buildsingle.sh mod-cabsim-ir-loader
 
+# plugins are located in /home/builder/mod-workdir/modduo/plugins/
+
 cmd sleep 1d
-# run with -v ~/lv2-plugins/:/home/builder/mod-workdir/modduo/plugins/

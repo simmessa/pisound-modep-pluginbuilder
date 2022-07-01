@@ -34,16 +34,14 @@ You should have several tarballs in `./lv2-plugins/plugins/*.tar.gz` that you ca
 Here's the plugins that currently compile and are new to the standard Modep _this list is a WIP_.
 
 - abgate
-- artyfx
-- carla-plugins
-- chow-centaur
 - collisiondrive
 - deteriorate-lv2-labs
-- dexed-labs
-- dragonfly-reverb
 - fatfrog
 - gxtonemachine
-- gxvoodoo
+- infamous-plugins
+- infamous-plugins-labs
 - metaltone
-- mod-cabsim-ir-loader
-- tamgamp-labs
+- carla-plugins
+- fabla-labs
+- gxvoodoo
+- dexed-labs
