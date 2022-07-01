@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # https://github.com/antanasbruzas/abGate
-# ./build modduo abgate
+./build modduo abgate
 
 # ./build modduo aether
 # ./build modduo airwindows
@@ -10,9 +10,9 @@
 # ./build modduo amsynth
 
 # https://github.com/openAVproductions/openAV-ArtyFX
-# ./build modduo artyfx
+./build modduo artyfx
+./build modduo artyfx-labs
 
-# ./build modduo artyfx-labs
 # ./build modduo beatslash-lv2-labs
 # ./build modduo blop-lv2
 # ./build modduo blop-lv2-labs
@@ -30,13 +30,13 @@
 # ./build modduo carla-plugins-labs
 # ./build modduo chow-analogtapemodel
 
-# https://github.com/jatinchowdhury18/KlonCentaur
-./build modduo chow-centaur
+# Broken :( https://github.com/jatinchowdhury18/KlonCentaur
+# ./build modduo chow-centaur
 
 # ./build modduo chow-kick
 
 # https://github.com/brummer10/CollisionDrive
-# ./build modduo collisiondrive
+./build modduo collisiondrive
 
 # ./build modduo commercial-plugin-example
 # ./build modduo crypt
@@ -45,7 +45,7 @@
 ./build modduo deteriorate-lv2-labs
 
 # Legendary DX7 soft synth (https://github.com/dcoredump/dexed.lv2)
-# ./build modduo dexed-labs
+./build modduo dexed-labs
 
 # ./build modduo die-plugins
 # ./build modduo die-plugins-labs
