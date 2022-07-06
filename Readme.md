@@ -45,3 +45,8 @@ Here's the plugins that currently compile and are new to the standard Modep _thi
 - fabla-labs
 - gxvoodoo
 - dexed-labs
+
+# About GUIs
+
+Not all of these have a decent GUI in mod-host / modep, but there'a repo that can help you add an optimized GUI found here:
+https://github.com/popololo46/modgui
