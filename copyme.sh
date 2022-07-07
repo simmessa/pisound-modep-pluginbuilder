@@ -1,6 +1,8 @@
 #!/bin/bash
 # copyme
 
+set -e
+
 if [ -d "./lv2-plugins" ] 
 then
     echo "Directory ./lv2-plugins exists." 

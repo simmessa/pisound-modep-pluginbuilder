@@ -22,7 +22,8 @@ RUN bash buildsingle.sh carla-plugins
 RUN bash buildsingle.sh fabla-labs
 RUN bash buildsingle.sh gxvoodoo
 RUN bash buildsingle.sh dexed-labs
-
+# will build many distrho plugins including OB-Xd
+RUN bash buildsingle.sh distrho-ports-labs
 # cannot find IRs, so it's pointless right now
 # run bash buildsingle.sh mod-cabsim-ir-loader
 
