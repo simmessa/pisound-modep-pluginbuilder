@@ -24,6 +24,11 @@ RUN bash buildsingle.sh gxvoodoo
 RUN bash buildsingle.sh dexed-labs
 # will build many distrho plugins including OB-Xd
 RUN bash buildsingle.sh distrho-ports-labs
+# VEX synth
+RUN bash buildsingle.sh distrho-ports
+# SIMSAM for sfz soundfonts, so that you can bring yours ;)
+RUN bash buildsingle.sh  simsam-labs
+
 # cannot find IRs, so it's pointless right now
 # run bash buildsingle.sh mod-cabsim-ir-loader
 
